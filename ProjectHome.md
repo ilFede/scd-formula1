@@ -1,0 +1,1 @@
+Simulazione di una gara di Formula 1 tramite un sistema concorrente e distribuito
